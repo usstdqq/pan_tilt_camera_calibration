@@ -6,6 +6,6 @@ Algorithm details can be found in the following paper:
 
 Prepare calibration data to file "calibration_data.log". Each row is a data point. The order of columns is:
 
-theta1 | theta 2 | u | v | x_real | y_real | z_real
+theta1 | theta2 | u | v | x_real | y_real | z_real
 
 Please run file "main.m" to see the process
